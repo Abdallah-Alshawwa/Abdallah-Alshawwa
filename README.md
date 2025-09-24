@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👀! My name is Abdallah and I'm a Web Developer 👨🏻‍💻</h2>
+<h2 align="left">Hi 👀! My name is Abdallah and I'm a Full Stack Developer 👨🏻‍💻</h2>
 
 ###
 
